@@ -10,7 +10,7 @@
 array=( 1 2 3 4 5 6 7 8 9 0 a b c d e f )
 MAXCOUNT=500
 count=1
-network=2a07:14c0:0:2451 # your ipv6 network prefix
+network=2001:19f0:5401:11d7 # your ipv6 network prefix
 
 rnd_ip_block ()
 {
